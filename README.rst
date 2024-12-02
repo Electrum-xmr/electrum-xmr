@@ -22,5 +22,5 @@ Features
 License  
 =============
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/Electrum-xmr/electrum-xmr?tab=MIT-1-ov-file) for details.
 
