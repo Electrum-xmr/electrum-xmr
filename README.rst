@@ -24,4 +24,4 @@ License
 
 This project is licensed under the MIT License. See the `LICENSE`_ for details.
 
-.. _LICENSE: https://github.com/Electrum-xmr/electrum-xmr/blob/master/LICENSE
+.. _LICENSE: https://github.com/Electrum-xmr/electrum-xmr/blob/master/LICENCE
