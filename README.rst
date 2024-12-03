@@ -4,12 +4,14 @@
     :target: https://coveralls.io/github/spesmilo/electrumx
 
 ===============================================
-Electrum Monero (XMR) 
+Electrum Monero Wallet (XMR) 
 ===============================================
 
   :Licence: MIT
   :Language: Python (>= 3.8)
   :Original Author: Neil Booth
+
+**Electrum Monero** is a secure, lightweight wallet designed for Monero (XMR) cryptocurrency, emphasizing privacy and speed.  
 
 Features  
 =============
